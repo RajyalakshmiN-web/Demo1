@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rajya\\source\\repos\\SpecFlowProject2\\SpecFlowProject2\\SpecFlowProject2.csproj": {}
+    "C:\\Users\\rajya\\Demo1\\SpecFlowProject2\\SpecFlowProject2\\SpecFlowProject2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rajya\\source\\repos\\SpecFlowProject2\\SpecFlowProject2\\SpecFlowProject2.csproj": {
+    "C:\\Users\\rajya\\Demo1\\SpecFlowProject2\\SpecFlowProject2\\SpecFlowProject2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rajya\\source\\repos\\SpecFlowProject2\\SpecFlowProject2\\SpecFlowProject2.csproj",
+        "projectUniqueName": "C:\\Users\\rajya\\Demo1\\SpecFlowProject2\\SpecFlowProject2\\SpecFlowProject2.csproj",
         "projectName": "SpecFlowProject2",
-        "projectPath": "C:\\Users\\rajya\\source\\repos\\SpecFlowProject2\\SpecFlowProject2\\SpecFlowProject2.csproj",
+        "projectPath": "C:\\Users\\rajya\\Demo1\\SpecFlowProject2\\SpecFlowProject2\\SpecFlowProject2.csproj",
         "packagesPath": "C:\\Users\\rajya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rajya\\source\\repos\\SpecFlowProject2\\SpecFlowProject2\\obj\\",
+        "outputPath": "C:\\Users\\rajya\\Demo1\\SpecFlowProject2\\SpecFlowProject2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rajya\\AppData\\Roaming\\NuGet\\NuGet.Config",
